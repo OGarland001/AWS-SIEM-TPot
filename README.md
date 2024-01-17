@@ -45,4 +45,5 @@ For fun I did perform a spiderfoot scan on a known attacker that was attacking m
 - AWS EC2 Cloud tools and security practices.
 - Elastic Dashboards: this gave me a really cool experience with such a powerful data visualizing tool.
 - This was a really cool oppurtunity to learn more about SIEMs and detecting attacks over a network.
+
 \o/ Can't wait to work on some more Cyber Security Projects!!!
