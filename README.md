@@ -5,9 +5,8 @@
 T-Pot is the all in one honeypot platform used for this project.
 https://github.com/telekom-security/tpotce
 
-<img src="image.png" alt="image" style="width:100px;height:auto;">
-
-<img src="image-1.png" alt="image" style="width:100px;height:auto;">
+<img src=https://github.com/OGarland001/AWS-SIEM-TPot/assets/90342911/5f0f1568-4cf1-497f-b4a8-9acd4d593ccb alt="image" style="width:300px;height:auto;">
+<img src="image-1.png" alt="image" style="width:300px;height:auto;">
 
 ## Introduction
 
@@ -44,5 +43,6 @@ For fun I did perform a spiderfoot scan on a known attacker that was attacking m
 ## What I learned
 
 - AWS EC2 Cloud tools and security practices.
-- Elastic Dashboards: this gave me a really cool experience with such a powerful data visualizing tool
+- Elastic Dashboards: this gave me a really cool experience with such a powerful data visualizing tool.
 - This was a really cool oppurtunity to learn more about SIEMs and detecting attacks over a network.
+\o/ Can't wait to work on some more Cyber Security Projects!!!
